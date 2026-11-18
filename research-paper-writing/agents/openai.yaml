@@ -1,0 +1,6 @@
+interface:
+  display_name: "科研论文写作"
+  short_description: "Award-paper narrative, language craft, mathematical verification"
+  default_prompt: "使用顶会获奖论文的分章节写作规则审阅我的论文：优先设计整体论证和概念叙事，随后逐句精修，并核查数学、实证与创新边界。"
+policy:
+  allow_implicit_invocation: true
